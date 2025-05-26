@@ -6,19 +6,6 @@ This repository contains comprehensive solutions to 50 carefully selected interv
 questions covering fundamental concepts in mathematics, statistics, machine learning, and data science.
 The assignment demonstrates deep understanding of core concepts essential for data science and machine learning roles.
 
-__Project Structure__
-
-```
-├── solutions/
-│   ├── linear_algebra_solutions.md
-│   ├── probability_theory_solutions.md
-│   ├── statistical_inference_solutions.md
-│   ├── machine_learning_solutions.md
-│   └── experimental_design_solutions.md
-├── README.md
-└── complete_solutions_summary.md
-```
-
 __Assignment Requirements__
 
 **Task:** Write solutions to any 50 interview questions out of 80 total questions   
@@ -100,8 +87,8 @@ __Next Steps__
 
 __About__
 
-This repository showcases comprehensive solutions to fundamental data science interview questions, 
+- This repository showcases comprehensive solutions to fundamental data science interview questions, 
 demonstrating strong theoretical knowledge and practical application skills essential for data science
-and machine learning roles.    
-**Academic Context:** End Course Summative Assignment      
-**Objective:** Master core concepts through detailed analysis of interview questions    
+and machine learning roles. 
+- **Academic Context:** End Course Summative Assignment    
+- **Objective:** Master core concepts through detailed analysis of interview questions    
