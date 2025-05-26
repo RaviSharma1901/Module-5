@@ -51,24 +51,24 @@ __Key Findings__
       - **Product Affinity:** Wine and meat product correlation
       - **Relationship Status:** Married/partnered customers show higher spending      
    
-   __Strategic Recommendations__      
-      - __Customer Targeting Strategy__      
-         - **Primary Focus:** Age group 40-45 with higher income potential   
-         - **Education-Based Marketing:** Target graduates and Ph.D. holders
-         - **Relationship-Focused Campaigns:** Special offers for couples and families
-      - __Product Strategy__
-         - **Mid-Range Focus:** Align product portfolio with $47,529 average income
-         - **Cross-Selling:** Promote wine and meat product bundles
-         - **Luxury Segment:** Introduce premium options for high-income customers
-      - __Marketing Optimization__
-         - **Seasonal Adjustments:** Increase marketing efforts in July
-         - **Retention Programs:** Address 48.95-day average recency with engagement campaigns
-         - **Response Rate Improvement:** Enhance targeting to improve 3% acceptance rate
-         - **Incentive Programs:** Implement discount strategies for inactive customers
-      - __Operational Recommendations__
-         - **Staffing:** Increase marketing team capacity during low-activity periods
-         - **Campaign Timing:** Leverage August peak season for maximum impact
-         - **Personalization:** Develop segment-specific marketing approaches
+__Strategic Recommendations__      
+   - __Customer Targeting Strategy__      
+      - **Primary Focus:** Age group 40-45 with higher income potential   
+      - **Education-Based Marketing:** Target graduates and Ph.D. holders
+      - **Relationship-Focused Campaigns:** Special offers for couples and families
+   - __Product Strategy__
+      - **Mid-Range Focus:** Align product portfolio with $47,529 average income
+      - **Cross-Selling:** Promote wine and meat product bundles
+      - **Luxury Segment:** Introduce premium options for high-income customers
+   - __Marketing Optimization__
+      - **Seasonal Adjustments:** Increase marketing efforts in July
+      - **Retention Programs:** Address 48.95-day average recency with engagement campaigns
+      - **Response Rate Improvement:** Enhance targeting to improve 3% acceptance rate
+      - **Incentive Programs:** Implement discount strategies for inactive customers
+   - __Operational Recommendations__
+      - **Staffing:** Increase marketing team capacity during low-activity periods
+      - **Campaign Timing:** Leverage August peak season for maximum impact
+      - **Personalization:** Develop segment-specific marketing approaches
 
 __Technical Implementation__
    - __Tools and Libraries Used__
