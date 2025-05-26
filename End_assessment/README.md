@@ -89,6 +89,5 @@ __About__
 
 - This repository showcases comprehensive solutions to fundamental data science interview questions, 
 demonstrating strong theoretical knowledge and practical application skills essential for data science
-and machine learning roles. 
-- **Academic Context:** End Course Summative Assignment    
+and machine learning roles.    
 - **Objective:** Master core concepts through detailed analysis of interview questions    
