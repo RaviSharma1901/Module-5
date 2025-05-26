@@ -4,15 +4,6 @@
 
 This project conducts a comprehensive statistical analysis of customer purchase behavior using descriptive statistics and exploratory data analysis (EDA). The analysis aims to understand customer demographics, purchasing patterns, and provide actionable insights for marketing strategy optimization.
 
-__Project Structure__
-
-```
-├── Assignment_of_Applied_Statistics_Project(Ravi_Sharma).ipynb
-├── Superstore Marketing Data_csv.csv
-├── requirements.txt
-└── README.md
-```
-
 __Dataset__
 
 **File:** `Superstore Marketing Data_csv.csv`
@@ -60,7 +51,7 @@ __Key Findings__
       - **Product Affinity:** Wine and meat product correlation
       - **Relationship Status:** Married/partnered customers show higher spending
    
-   __Strategic Recommendations__
+   __Strategic Recommendations__      
       - __Customer Targeting Strategy__
          - **Primary Focus:** Age group 40-45 with higher income potential
          - **Education-Based Marketing:** Target graduates and Ph.D. holders
