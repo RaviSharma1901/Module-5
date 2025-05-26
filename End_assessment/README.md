@@ -17,14 +17,11 @@ All solutions are documented using Microsoft Word (.DOCX) format, ensuring struc
 __Example Questions & Resources__
 - __What is a vector in mathematics?__
   - A vector is a quantity that has both magnitude and direction, represented in n-dimensional space.
-  - __Resource__: Khan Academy - Vectors
 - __How is a vector different from a scalar?__
   - A vector has both magnitude and direction, while a scalar has only magnitude.
-  - __Resource__: MIT Linear Algebra - Scalars & Vectors
 - __What are the different operations that can be performed on vectors?__
   - Common operations include vector addition, subtraction, scalar multiplication, dot product, and 
    cross product.    
-  - __Resource__: 3Blue1Brown - Linear Algebra
 
 **Topics Covered:**
 - Linear Algebra and Vector Mathematics
