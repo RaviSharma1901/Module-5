@@ -49,11 +49,11 @@ __Key Findings__
       __Customer Segmentation__
       - **High-Value Segment:** Graduated and Ph.D. customers
       - **Product Affinity:** Wine and meat product correlation
-      - **Relationship Status:** Married/partnered customers show higher spending
+      - **Relationship Status:** Married/partnered customers show higher spending      
    
    __Strategic Recommendations__      
-      - __Customer Targeting Strategy__
-         - **Primary Focus:** Age group 40-45 with higher income potential
+      - __Customer Targeting Strategy__      
+         - **Primary Focus:** Age group 40-45 with higher income potential   
          - **Education-Based Marketing:** Target graduates and Ph.D. holders
          - **Relationship-Focused Campaigns:** Special offers for couples and families
       - __Product Strategy__
