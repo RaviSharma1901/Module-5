@@ -5,19 +5,20 @@ This repository contains projects related to Applied Statistics and Data Visuali
 
 __Repository Structure__
 
-Module-5/
-│── __End_assessment__/
-│   ├── Capstone Project - Applied Statistics.docx (Final Capstone Project Documentation)
-│   ├── README.md (End Assessment Overview)
-│
-│── __Mid_assessment__/
-│   ├── Assignment_of_Applied_Statistics_Project(Ravi_Sharma).ipynb (Jupyter Notebook Analysis)
-│   ├── Superstore Marketing Data_csv.csv (Dataset used for analysis)
-│   ├── requirements.txt (Required dependencies for the project)
-│   ├── README.md (Mid Assessment Overview)
-│
-└── README.md (Main Project Overview)
-
+      
+      Module-5/
+      │── __End_assessment__/
+      │   ├── Capstone Project - Applied Statistics.docx (Final Capstone Project Documentation)
+      │   ├── README.md (End Assessment Overview)
+      │
+      │── __Mid_assessment__/
+      │   ├── Assignment_of_Applied_Statistics_Project(Ravi_Sharma).ipynb (Jupyter Notebook Analysis)
+      │   ├── Superstore Marketing Data_csv.csv (Dataset used for analysis)
+      │   ├── requirements.txt (Required dependencies for the project)
+      │   ├── README.md (Mid Assessment Overview)
+      │
+      └── README.md (Main Project Overview)
+      
 __Projects Included__
 
 - End Assessment: Capstone Project - Applied Statistics
