@@ -91,9 +91,11 @@ __Usage Instructions__
      
    - __Clone the Repository__
 
-         git clone https://github.com/RaviSharma1901/Module-4
-         cd "Module-4/Mid assessment"      (Linux/MacOS)
-         cd "Module-4\Mid assessment"       (Windows)
+         git clone https://github.com/RaviSharma1901/Module-5
+     
+         cd "Module-5/Mid assessment"      (Linux/MacOS)
+     
+         cd "Module-5\Mid assessment"       (Windows)
    
    - **Run Analysis:**
      
